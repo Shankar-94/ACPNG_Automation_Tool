@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SimpleSapScraper.Core/SimpleSapScraper.Core.csproj" />
+  <Project Path="SimpleSapScraper.Frontend/SimpleSapScraper.Frontend.csproj" />
+  <Project Path="SimpleSapScraper.Tests/SimpleSapScraper.Tests.csproj" />
+</Solution>
